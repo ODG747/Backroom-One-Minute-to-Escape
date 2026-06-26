@@ -58,10 +58,15 @@ assets/
 ├── images/
 └── textures/
 
+config.py
+DOCUMENTATION.md
+game.py
 main.py
 render.py
-game.py
-player.py
+requirements/txt
+settings.py
+sounds.py
+state.py
 ```
 
 ---
