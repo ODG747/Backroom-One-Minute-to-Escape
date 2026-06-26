@@ -109,12 +109,6 @@ pyinstaller --onefile --windowed --add-data "assets:assets" main.py
 
 ---
 
-## Screenshots
-
-Add screenshots of the game here.
-
----
-
 ## Authors
 
 Developed during a Game Jam by Studio Mossard
