@@ -76,7 +76,7 @@ state.py
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Backroom-One-Minute-to-Escape.git
+git clone https://github.com/ODG747/Backroom-One-Minute-to-Escape.git
 ```
 
 Install dependencies:
